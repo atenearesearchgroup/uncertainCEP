@@ -1,0 +1,1 @@
+Punto Control	Puesto	Dorsal	Nombre	Apellido	Categora	T. Oficial	T.Neto	T.Neto(seg)	pointu	tu
